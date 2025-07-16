@@ -13,3 +13,8 @@ h1{
 p {
     color: antiquewhite;
 }
+a {
+    color: black;
+    text-decoration: none;
+    width: 35px;
+}
